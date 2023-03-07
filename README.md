@@ -12,3 +12,5 @@ Este é um projeto de desafio do Frontend Mentor, realizado em uma semana, para 
 ...
 
 ## Interface obtida
+
+Em desenvolvimento
