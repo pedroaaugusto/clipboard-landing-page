@@ -1,0 +1,26 @@
+/* header{
+    background: url(img/bg-header-desktop.png);
+} */
+
+.cabecalho {
+    background: url(img/bg-header-desktop.png);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 auto;
+}
+
+.logo{
+    padding: 120px 35px;
+}
+
+.download {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    padding: 10px;
+    margin: 10px;
+}
