@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&display=swap');
+
+/* começo header */
 
 .cabecalho-img {
     background: url(img/bg-header-desktop.png);
@@ -16,10 +19,22 @@
     padding: 0 auto;
 }   
 
+.titulo1 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    width: 60%;
+    text-align: center;
+}
+
 .paragrafo1 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 400;
+    font-weight: bold;
     padding: 20px 0 15px;
     width: 50%;
     text-align: center;
+    line-height: 150%;
 }
 
 .logo-c{
@@ -29,6 +44,7 @@
 .download {
     display: flex;
     justify-content: center;
+    padding: 20px 0;
 }
 
 .button {
@@ -36,17 +52,31 @@
     margin: 10px;
     background-color: rgb(57, 141, 46);
     border-radius: 30px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 400;
+    font-weight:lighter;
 }
 
 #azul-claro {
     background-color: #2BB9B0;
+    border-bottom: 5px;
+    border-color: #1c6b66;
+    box-shadow: 0px 3px 15px 5px #c5dddb;
 }
 
 #azul-escuro {
     background-color: #6275FD;
+    box-shadow: 0px 3px 15px 5px #c5dddb;
 }
 
 a {
     text-decoration: none;
     color: white;
 }
+
+/* começo main */
+
+main {
+    padding: 100px 0;
+}
+
