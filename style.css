@@ -81,9 +81,11 @@ main {
 }
 
 .parte-pc {
-    padding: 50px 0;
+    padding: 50px 0 ;
     display: flex;
     flex-direction: row;
+    width: 80%;
+    height: 572px;
 }
 
 #imagem-pc {
@@ -92,6 +94,16 @@ main {
 }
 
 #txt-pc{
-    width: 100%;
+    padding: 0 0 0 50px;
 }
 
+#txt-pc h2{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 600;
+    padding: 107px 0 0 0;
+}
+
+#txt-pc p{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 400;
+}
