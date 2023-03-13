@@ -13,4 +13,6 @@ Este é um projeto de desafio do Frontend Mentor, realizado em uma semana, para 
 
 ## Interface obtida
 
-Em desenvolvimento
+![print projeto](https://user-images.githubusercontent.com/115605744/224586874-b09d8470-676a-497b-8378-53e801f6af71.png)
+
+Em desenvolvimento tela mobile
