@@ -13,4 +13,6 @@ Este é um projeto de desafio do Frontend Mentor, realizado em uma semana, para 
 
 ## Interface obtida
 
-Em desenvolvimento
+[print tela projeto.pdf](https://github.com/pedroaaugusto/clipboard-landing-page/files/10952637/print.tela.projeto.pdf)
+
+Em desenvolvimento tela mobile
